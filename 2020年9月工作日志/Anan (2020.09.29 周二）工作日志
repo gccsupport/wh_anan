@@ -1,0 +1,31 @@
+## Anan (2020.09.29 周二）工作日志
+### 上午:
+#### 查找资料了解 swift 中 hash 算法的应用. 
+
+### 下午:
+#### 更新官网.
+##### JavaScript 字符串方法相关操作
+* charAt()
+* charCodeAt()
+* concat()
+* fromCharCode()
+* indexOf()
+* lastIndexOf()
+* localeCompare()
+* match()
+* replace()
+* search()
+* slice()
+* split()
+* substr()
+* toLocaleLowerCase()
+* toLocaleUpperCase()
+* toLowerCase()
+* toString()
+* toUpperCase()
+* trim()
+* valueOf()
+
+### 明日计划:
+*  菜鸟教程 JavaScript 语法学习
+*  熟悉js-client项目代码,查找相关学习资料
